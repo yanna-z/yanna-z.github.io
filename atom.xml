@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yanna.github.io</id>
+    <id>https://yanna-z.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-15T12:21:11.823Z</updated>
+    <updated>2020-06-15T12:32:04.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yanna.github.io"/>
-    <link rel="self" href="https://yanna.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yanna-z.github.io"/>
+    <link rel="self" href="https://yanna-z.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://yanna.github.io/images/avatar.png</logo>
-    <icon>https://yanna.github.io/favicon.ico</icon>
+    <logo>https://yanna-z.github.io/images/avatar.png</logo>
+    <icon>https://yanna-z.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yanna.github.io/post/hello-gridea/</id>
-        <link href="https://yanna.github.io/post/hello-gridea/">
+        <id>https://yanna-z.github.io/post/hello-gridea/</id>
+        <link href="https://yanna-z.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
