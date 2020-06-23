@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanna-z.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-18T16:16:57.789Z</updated>
+    <updated>2020-06-23T03:18:18.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanna-z.github.io"/>
     <link rel="self" href="https://yanna-z.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://yanna-z.github.io/images/avatar.png</logo>
     <icon>https://yanna-z.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2019.5.16我们毕业啦]]></title>
+        <id>https://yanna-z.github.io/post/2019516-wo-men-bi-ye-la/</id>
+        <link href="https://yanna-z.github.io/post/2019516-wo-men-bi-ye-la/">
+        </link>
+        <updated>2020-06-23T02:39:05.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yanna-z.github.io/post-images/1592880958913.jpg" alt="" loading="lazy"></figure>
+<p>毕业如期而至，两年的时间不长不短，我们刚好熟悉，刚好成长。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yanna-z.github.io/post/hello-gridea/</id>
